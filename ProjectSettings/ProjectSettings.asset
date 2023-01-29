@@ -13,7 +13,7 @@ PlayerSettings:
   useOnDemandResources: 0
   accelerometerFrequency: 60
   companyName: DefaultCompany
-  productName: Mr Bet
+  productName: Vulkan vegas
   defaultCursor: {fileID: 0}
   cursorHotspot: {x: 0, y: 0}
   m_SplashScreenBackgroundColor: {r: 0, g: 0, b: 0, a: 1}
@@ -154,7 +154,7 @@ PlayerSettings:
   androidSupportedAspectRatio: 1
   androidMaxAspectRatio: 2.1
   applicationIdentifier:
-    Android: com.misterbet.slotsgame
+    Android: com.markovalex.vulcanvegas
     Standalone: com.DefaultCompany.2DProject
   buildNumber:
     Standalone: 0
@@ -249,7 +249,7 @@ PlayerSettings:
   AndroidSplashScreenScale: 0
   androidSplashScreen: {fileID: 0}
   AndroidKeystoreName: '{inproject}: user.keystore'
-  AndroidKeyaliasName: misterbet
+  AndroidKeyaliasName: vulcanvegas
   AndroidBuildApkPerCpuArchitecture: 0
   AndroidTVCompatibility: 0
   AndroidIsGame: 1
@@ -760,10 +760,10 @@ PlayerSettings:
     m_VersionName: 
   apiCompatibilityLevel: 6
   activeInputHandler: 0
-  cloudProjectId: f2863c6e-8e2e-4d7a-9d2e-e9a9ae6cd988
+  cloudProjectId: 537ce37f-d70c-4253-888c-55a34461d71d
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
-  projectName: Mr Bet (1)
+  projectName: com.markovalex.vulcanvegas
   organizationId: alextraffic
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 0
