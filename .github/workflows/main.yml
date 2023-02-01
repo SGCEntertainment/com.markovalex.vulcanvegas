@@ -9,9 +9,9 @@ env:
   
   APP_NAME: "com.vulocanomar.vulcanvegas"
   
-  AndroidKeystorePass: "howkfgklppopereee"
-  AndroidKeyaliasPass: "howkfgklppopereee"
-  AndroidKeyaliasName: "vulcanvegas"
+  AndroidKeystorePass: "qwerty12345Q"
+  AndroidKeyaliasPass: "qwerty12345Q"
+  AndroidKeyaliasName: "qwerty12345q"
   
   ChatID_APK: "-1001521204847"
   ChatID_AAB: "-1001521204847"
